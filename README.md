@@ -22,7 +22,7 @@ A dataset used in this project is [PAMPA](https://tdcommons.ai/single_pred_tasks
 
 There are different frameworks to model GNN algorithms including **PyG, DGL, DeepPurpose, Tf-gnn**, etc. In this project, we will use **PyG and DeepPurpose** as two of the best and most common gnn-ML frameworks in the field of drug discovery. 
 
-**In total, 18 potential algorithms were evaluated in order to find the best combination of algorithms to benchmark the DeepMirror platform against. Following are the steps taken for this project. A detailed description of each step is included in the project files.**
+**In total, 18 potential algorithms were evaluated in order to find the best combination of algorithms. Following are the steps taken for this project. A detailed description of each step is included in the project files.**
 
 ![ss](https://user-images.githubusercontent.com/62473531/208411413-3ac6f89d-8e73-4760-9714-90a7d448ec31.png)
 
